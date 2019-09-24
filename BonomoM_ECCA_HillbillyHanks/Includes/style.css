@@ -1,0 +1,145 @@
+
+body {background-image: url("images/countryimage.jpg");
+      height:1600px;
+      width:1560px;
+      background-position: bottom-right;}
+
+main{width:1560px;
+    background-image: url("images/Country-Image.jpg");}
+    
+header{width:1560px;}
+
+nav {float: right;
+    margin-right: 60px;
+    margin-top:0;
+    height:140px;
+    width:1560px;
+    margin:20px;
+    position:absolute;top:0;left:340px;}
+    
+a {font-family: Cooper Black;
+    font-size: 4em;
+    color:white;
+    text-decoration: none;
+    margin: 0 30px;}
+    
+h1 {font-family: Cooper Black;
+    font-size:3.5em;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+    color:white;}
+
+h2{font-family: Roboto Condensed;
+    font-size:4.25em;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+    color:white;
+    height:80px;
+    width:500px;
+    background: rgba(10,10,10,.2);
+    position:absolute;left:860px;top:650px;}
+    
+h3{font-family:Roboto Condensed;
+    font-size:3.5em;
+    font-weight:normal;
+    text-decoration:none;
+    text-align:center;
+    color:white;
+    line-height:.5;}
+    
+h4{font-family: Cooper Black;
+    font-size:1.25em;
+    font-weight:normal;
+    text-align:left;
+    text-decoration:none;
+    color:white;
+    background: rgba(146,0,0,1);
+    height:60px;
+    width:340px;
+    margin-top:60px;}
+    
+h5{font-family: Cochin;
+    font-size:4em;
+    font-weight:normal;
+    text-align:center;
+    text-decoration:none;
+    color:white;
+    background: rgba(101,68,43,1);
+    height:100px;
+    width:425px;
+    border-radius:25px;
+    margin-top:60px;
+    margin: 0 auto;
+    padding:15px;
+    box-sizing:border-box;}
+
+footer {}
+        
+#logo {height: 140px;
+        width: 340px;
+        position:fixed;left:0;}
+
+#logo {height: 140px;
+        width: 340px;
+        position:fixed;top:0;}
+        
+#topbar {height: 140px;
+        width: 1560px;
+        position:absolute;top:0;left:340px;}
+                  
+ .headerside {height:1600px;
+            width:340px;
+            position:fixed;top:140px;}
+            
+#headerside {height:1600px;
+            width:340px;
+            position:fixed;top:140px;left:0;}
+            
+
+#Pepper_Jerky {height:460px;
+                width:1320px;
+                position:absolute;left:460px;top:200px;}
+                
+#background {position:absolute;top:140px;left:340px;}
+    
+#socialwrapper {height:30px;
+                width:260px;
+                margin-left:0;
+                position:fixed;bottom:10px;left:30px;
+                margin-bottom:100px;}
+                
+#leftitem {position:absolute;left:440px;top:860px;
+          background: rgba(10,10,10,.2);
+          height:540px;
+          width:580px;
+          padding:20px;
+          margin: 0 auto;
+          display:block;}
+          
+#rightitem {position:absolute;left:1220px;top:860px;
+          background: rgba(10,10,10,.2);
+          height:540px;
+          width:580px;
+          padding:20px;
+          margin: 0 auto;
+          display:block}
+          
+.images {margin:0 auto;
+        display:block;}
+        
+        
+.social {height:30px;
+        margin:0 23px 0 23px;}
+        
+        
+#seachbar {width:265px;
+            height:60px;
+            position:absolute; right:120px;top:30px;}
+        
+
+        
+
+
+    
